@@ -1,0 +1,8 @@
+{
+    "client_id": "https://cdn.statically.io/gh/anush-biztecno/cimd@main/elevenlabs_client_metadata_final.json",
+    "client_name": "mcp-gateway",
+    "redirect_uris": ["http://localhost:6275/oauth/callback"],
+    "grant_types": ["authorization_code", "refresh_token"],
+    "response_types": ["code"],
+    "token_endpoint_auth_method": "none"
+}
