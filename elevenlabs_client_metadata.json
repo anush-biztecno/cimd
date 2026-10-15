@@ -1,6 +1,6 @@
 {
     "client_name": "mcp-gateway",
-    "redirect_urls": ["http://localhost:6275/oauth/callback"],
+    "redirect_uris": ["http://localhost:6275/oauth/callback"],
     "grant_types": ["authorization_code", "refresh_token"],
     "response_types": ["code"],
     "token_endpoint_auth_method": "none"
